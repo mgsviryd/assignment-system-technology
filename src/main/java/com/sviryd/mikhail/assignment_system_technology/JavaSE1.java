@@ -1,4 +1,4 @@
-package com.sviryd.mikhail;
+package com.sviryd.mikhail.assignment_system_technology;
 
 import java.util.HashMap;
 import java.util.Map;

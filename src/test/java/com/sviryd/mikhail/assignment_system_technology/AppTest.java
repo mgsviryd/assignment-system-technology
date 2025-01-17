@@ -1,4 +1,4 @@
-package com.sviryd.mikhail;
+package com.sviryd.mikhail.assignment_system_technology;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
