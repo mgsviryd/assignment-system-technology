@@ -7,10 +7,12 @@
   <version>1.0</version>
   <name>assignment-system-technology</name>
   <url>http://maven.apache.org</url>
+
   <properties>
     <java.version>1.8</java.version>
     <junit.version>4.12</junit.version>
   </properties>
+
   <dependencies>
     <!-- Test -->
     <dependency>
@@ -20,6 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
   <build>
     <plugins>
       <plugin>

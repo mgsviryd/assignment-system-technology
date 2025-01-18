@@ -1,11 +1,11 @@
-package com.sviryd.mikhail.assignment_system_technology;
+package com.sviryd.assignment_system_technology;
 
 import java.util.Arrays;
 
 /**
  * 1.1 Задача 1
  */
-public class JavaSE2 {
+public class TestApplication {
     private static class Parent {
         String fio;
 
@@ -51,9 +51,6 @@ public class JavaSE2 {
         }
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Parent parent = new Parent();
         parent.print();
